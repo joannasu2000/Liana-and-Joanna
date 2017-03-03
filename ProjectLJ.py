@@ -87,3 +87,16 @@ def day1S3_coffee(ans):
         print "You failed to get a coffee. You just died due to fatigue."
     elif ans == "c":
         print "Congratulations! You just won the coffee."
+
+from random import randint
+doubles = 0
+num1 = randint(1, 6)
+num2 = randint(1, 6)
+print "Are you ready to roll your dice? (Y)es or (N)o"
+answer = raw_input()
+you = num1 + num2
+while answer.lower()[0] == "y":
+    print "You rolled a", num1, "and a", num2, ". Your total is", you
+    break
+mag = num1 + num2
+print "It is now the magician's turn to roll the dice. He rolled a ", num1, "and a", num2, ". His total is", mag
