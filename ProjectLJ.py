@@ -1,3 +1,4 @@
+# This is the working git copy.
 intro1 = "KABOOOOOMMMM! Your neighboring country just dropped a nuclear bomb, Tsar Bomba on your nation. You have lost \
 your family, a house, and all the supplies. The rescue army will come to save you in 7 days; however, you currently\
 don't have water, food, or bedding. You need to find a way to survive during this 7 days! Are you ready to start your\
